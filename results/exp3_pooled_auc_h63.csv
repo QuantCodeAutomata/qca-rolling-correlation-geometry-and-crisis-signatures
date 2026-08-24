@@ -1,0 +1,6 @@
+signal,horizon,period,auc
+mean_corr,63,pooled,0.5872282845552985
+market_share,63,pooled,0.5937841530054646
+neg_PR,63,pooled,0.5938481846525193
+local_rot,63,pooled,0.5389190888061953
+commutator,63,pooled,0.5409829360689262

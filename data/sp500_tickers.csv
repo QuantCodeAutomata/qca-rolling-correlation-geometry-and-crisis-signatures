@@ -1,0 +1,225 @@
+ticker,name,sic
+AAPL,Apple Inc,3571
+MSFT,Microsoft Corp,7372
+AMZN,Amazon.com Inc,5961
+GOOGL,Alphabet Inc,7370
+META,Meta Platforms Inc,7370
+NVDA,NVIDIA Corp,3674
+TSLA,Tesla Inc,3711
+JPM,JPMorgan Chase & Co,6020
+JNJ,Johnson & Johnson,2834
+V,Visa Inc,6099
+PG,Procter & Gamble Co,2840
+UNH,UnitedHealth Group Inc,6324
+HD,Home Depot Inc,5211
+MA,Mastercard Inc,6099
+BAC,Bank of America Corp,6020
+DIS,Walt Disney Co,4833
+ADBE,Adobe Inc,7372
+NFLX,Netflix Inc,7841
+CMCSA,Comcast Corp,4841
+CRM,Salesforce Inc,7372
+VZ,Verizon Communications Inc,4813
+INTC,Intel Corp,3674
+CSCO,Cisco Systems Inc,3576
+PFE,Pfizer Inc,2834
+KO,Coca-Cola Co,2080
+PEP,PepsiCo Inc,2080
+XOM,Exxon Mobil Corp,2911
+CVX,Chevron Corp,2911
+T,AT&T Inc,4813
+WMT,Walmart Inc,5411
+ABT,Abbott Laboratories,2834
+MRK,Merck & Co Inc,2834
+NKE,Nike Inc,3021
+MCD,McDonald's Corp,5812
+COST,Costco Wholesale Corp,5411
+LLY,Eli Lilly and Co,2834
+DHR,Danaher Corp,3826
+NEE,NextEra Energy Inc,4911
+LIN,Linde plc,2810
+TXN,Texas Instruments Inc,3674
+UNP,Union Pacific Corp,4011
+BMY,Bristol-Myers Squibb Co,2834
+QCOM,Qualcomm Inc,3674
+HON,Honeywell International Inc,3728
+LOW,Lowe's Companies Inc,5211
+UPS,United Parcel Service Inc,4513
+AMGN,Amgen Inc,2834
+IBM,IBM Corp,7372
+CAT,Caterpillar Inc,3531
+GS,Goldman Sachs Group Inc,6199
+BA,Boeing Co,3721
+SBUX,Starbucks Corp,5812
+BLK,BlackRock Inc,6282
+ORCL,Oracle Corp,7372
+GE,General Electric Co,3724
+MMM,3M Co,3559
+AXP,American Express Co,6141
+GILD,Gilead Sciences Inc,2836
+DE,Deere & Co,3523
+LMT,Lockheed Martin Corp,3812
+SPGI,S&P Global Inc,6199
+MDT,Medtronic plc,3841
+RTX,Raytheon Technologies Corp,3812
+ISRG,Intuitive Surgical Inc,3841
+NOW,ServiceNow Inc,7372
+SYK,Stryker Corp,3841
+CI,Cigna Corp,6321
+ANTM,Anthem Inc,6321
+ADP,Automatic Data Processing Inc,7374
+TJX,TJX Companies Inc,5651
+MO,Altria Group Inc,2111
+BDX,Becton Dickinson and Co,3841
+TMO,Thermo Fisher Scientific Inc,3826
+BKNG,Booking Holdings Inc,7389
+INTU,Intuit Inc,7372
+CVS,CVS Health Corp,5912
+MDLZ,Mondelez International Inc,2000
+CB,Chubb Ltd,6311
+LRCX,Lam Research Corp,3559
+COP,ConocoPhillips,2911
+AMAT,Applied Materials Inc,3559
+MU,Micron Technology Inc,3674
+ADI,Analog Devices Inc,3674
+GM,General Motors Co,3711
+F,Ford Motor Co,3711
+FDX,FedEx Corp,4513
+DUK,Duke Energy Corp,4911
+SO,Southern Co,4911
+MMC,Marsh & McLennan Companies Inc,6411
+PLD,Prologis Inc,6798
+CCI,Crown Castle International Corp,6798
+EQIX,Equinix Inc,6798
+AMT,American Tower Corp,6798
+D,Dominion Energy Inc,4911
+EOG,EOG Resources Inc,1311
+SLB,Schlumberger NV,1389
+KMB,Kimberly-Clark Corp,2650
+COF,Capital One Financial Corp,6141
+USB,US Bancorp,6020
+PNC,PNC Financial Services Group Inc,6020
+TRV,Travelers Companies Inc,6311
+AIG,American International Group Inc,6311
+MET,MetLife Inc,6311
+PRU,Prudential Financial Inc,6311
+ALL,Allstate Corp,6311
+SCHW,Charles Schwab Corp,6199
+CME,CME Group Inc,6200
+ICE,Intercontinental Exchange Inc,6200
+NOC,Northrop Grumman Corp,3812
+GD,General Dynamics Corp,3812
+EMR,Emerson Electric Co,3823
+ETN,Eaton Corp plc,3612
+ITW,Illinois Tool Works Inc,3540
+PH,Parker-Hannifin Corp,3492
+CSX,CSX Corp,4011
+NSC,Norfolk Southern Corp,4011
+LUV,Southwest Airlines Co,4512
+DAL,Delta Air Lines Inc,4512
+UAL,United Airlines Holdings Inc,4512
+AAL,American Airlines Group Inc,4512
+MAR,Marriott International Inc,7011
+HLT,Hilton Worldwide Holdings Inc,7011
+YUM,Yum! Brands Inc,5812
+CMG,Chipotle Mexican Grill Inc,5812
+DPZ,Domino's Pizza Inc,5812
+KMI,Kinder Morgan Inc,4922
+PSX,Phillips 66,2911
+VLO,Valero Energy Corp,2911
+MPC,Marathon Petroleum Corp,2911
+OXY,Occidental Petroleum Corp,1311
+HAL,Halliburton Co,1389
+BKR,Baker Hughes Co,1389
+DVN,Devon Energy Corp,1311
+APA,APA Corp,1311
+HES,Hess Corp,1311
+FCX,Freeport-McMoRan Inc,1040
+NEM,Newmont Corp,1040
+NUE,Nucor Corp,3316
+STLD,Steel Dynamics Inc,3316
+X,United States Steel Corp,3316
+DOW,Dow Inc,2820
+DD,DuPont de Nemours Inc,2820
+PPG,PPG Industries Inc,2851
+SHW,Sherwin-Williams Co,2851
+APD,Air Products and Chemicals Inc,2810
+ECL,Ecolab Inc,2842
+IFF,International Flavors & Fragrances Inc,2860
+CTVA,Corteva Inc,2870
+FMC,FMC Corp,2870
+MOS,Mosaic Co,2870
+CF,CF Industries Holdings Inc,2870
+EW,Edwards Lifesciences Corp,3841
+ZBH,Zimmer Biomet Holdings Inc,3841
+BSX,Boston Scientific Corp,3841
+ILMN,Illumina Inc,3826
+IDXX,IDEXX Laboratories Inc,3826
+A,Agilent Technologies Inc,3826
+DGX,Quest Diagnostics Inc,8071
+LH,Laboratory Corp of America Holdings,8071
+HUM,Humana Inc,6321
+CNC,Centene Corp,6321
+MOH,Molina Healthcare Inc,6321
+DVA,DaVita Inc,8060
+HCA,HCA Healthcare Inc,8060
+UHS,Universal Health Services Inc,8060
+BIIB,Biogen Inc,2836
+REGN,Regeneron Pharmaceuticals Inc,2836
+VRTX,Vertex Pharmaceuticals Inc,2836
+ALXN,Alexion Pharmaceuticals Inc,2836
+INCY,Incyte Corp,2836
+BAX,Baxter International Inc,3841
+MTD,Mettler-Toledo International Inc,3826
+WAT,Waters Corp,3826
+PKI,PerkinElmer Inc,3826
+STZ,Constellation Brands Inc,2080
+KHC,Kraft Heinz Co,2000
+GIS,General Mills Inc,2040
+K,Kellogg Co,2040
+CPB,Campbell Soup Co,2030
+CAG,Conagra Brands Inc,2000
+HSY,Hershey Co,2060
+MKC,McCormick & Co Inc,2090
+CHD,Church & Dwight Co Inc,2840
+CL,Colgate-Palmolive Co,2840
+CLX,Clorox Co,2840
+EL,Estee Lauder Companies Inc,2844
+COTY,Coty Inc,2844
+TAP,Molson Coors Beverage Co,2082
+BF.B,Brown-Forman Corp,2085
+SJM,J M Smucker Co,2030
+HRL,Hormel Foods Corp,2011
+TSN,Tyson Foods Inc,2011
+ADM,Archer-Daniels-Midland Co,2070
+BG,Bunge Ltd,2070
+KR,Kroger Co,5411
+SYY,Sysco Corp,5140
+AEP,American Electric Power Co Inc,4911
+SRE,Sempra,4924
+EXC,Exelon Corp,4911
+XEL,Xcel Energy Inc,4911
+PEG,Public Service Enterprise Group Inc,4911
+ED,Consolidated Edison Inc,4911
+WEC,WEC Energy Group Inc,4911
+DTE,DTE Energy Co,4911
+FE,FirstEnergy Corp,4911
+ES,Eversource Energy,4911
+AEE,Ameren Corp,4911
+CMS,CMS Energy Corp,4931
+CNP,CenterPoint Energy Inc,4931
+NI,NiSource Inc,4924
+LNT,Alliant Energy Corp,4911
+PPL,PPL Corp,4911
+ATO,Atmos Energy Corp,4924
+AWK,American Water Works Co Inc,4941
+PCG,PG&E Corp,4931
+EIX,Edison International,4911
+ETR,Entergy Corp,4911
+AES,AES Corp,4911
+NRG,NRG Energy Inc,4911
+VST,Vistra Corp,4911
+OKE,ONEOK Inc,4922
+WMB,Williams Companies Inc,4922
+TRGP,Targa Resources Corp,4922
+LNG,Cheniere Energy Inc,4922
